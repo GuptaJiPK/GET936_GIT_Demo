@@ -2,4 +2,4 @@ Dpeartments
 1. HR
 2. BU
 3. Technical
-4.SAP
+4. Finance
