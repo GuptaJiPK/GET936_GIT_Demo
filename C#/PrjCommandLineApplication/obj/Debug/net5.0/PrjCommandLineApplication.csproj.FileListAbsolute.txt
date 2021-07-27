@@ -1,0 +1,16 @@
+G:\LTI Training\PrjCommandLineApplication\bin\Debug\net5.0\PrjCommandLineApplication.exe
+G:\LTI Training\PrjCommandLineApplication\bin\Debug\net5.0\PrjCommandLineApplication.deps.json
+G:\LTI Training\PrjCommandLineApplication\bin\Debug\net5.0\PrjCommandLineApplication.runtimeconfig.json
+G:\LTI Training\PrjCommandLineApplication\bin\Debug\net5.0\PrjCommandLineApplication.runtimeconfig.dev.json
+G:\LTI Training\PrjCommandLineApplication\bin\Debug\net5.0\PrjCommandLineApplication.dll
+G:\LTI Training\PrjCommandLineApplication\bin\Debug\net5.0\ref\PrjCommandLineApplication.dll
+G:\LTI Training\PrjCommandLineApplication\bin\Debug\net5.0\PrjCommandLineApplication.pdb
+G:\LTI Training\PrjCommandLineApplication\obj\Debug\net5.0\PrjCommandLineApplication.csproj.AssemblyReference.cache
+G:\LTI Training\PrjCommandLineApplication\obj\Debug\net5.0\PrjCommandLineApplication.GeneratedMSBuildEditorConfig.editorconfig
+G:\LTI Training\PrjCommandLineApplication\obj\Debug\net5.0\PrjCommandLineApplication.AssemblyInfoInputs.cache
+G:\LTI Training\PrjCommandLineApplication\obj\Debug\net5.0\PrjCommandLineApplication.AssemblyInfo.cs
+G:\LTI Training\PrjCommandLineApplication\obj\Debug\net5.0\PrjCommandLineApplication.csproj.CoreCompileInputs.cache
+G:\LTI Training\PrjCommandLineApplication\obj\Debug\net5.0\PrjCommandLineApplication.dll
+G:\LTI Training\PrjCommandLineApplication\obj\Debug\net5.0\ref\PrjCommandLineApplication.dll
+G:\LTI Training\PrjCommandLineApplication\obj\Debug\net5.0\PrjCommandLineApplication.pdb
+G:\LTI Training\PrjCommandLineApplication\obj\Debug\net5.0\PrjCommandLineApplication.genruntimeconfig.cache

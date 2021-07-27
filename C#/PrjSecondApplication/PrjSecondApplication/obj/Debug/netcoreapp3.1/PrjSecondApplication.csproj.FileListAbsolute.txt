@@ -1,0 +1,13 @@
+G:\LTI Training\PrjSecondApplication\PrjSecondApplication\bin\Debug\netcoreapp3.1\PrjSecondApplication.exe
+G:\LTI Training\PrjSecondApplication\PrjSecondApplication\bin\Debug\netcoreapp3.1\PrjSecondApplication.deps.json
+G:\LTI Training\PrjSecondApplication\PrjSecondApplication\bin\Debug\netcoreapp3.1\PrjSecondApplication.runtimeconfig.json
+G:\LTI Training\PrjSecondApplication\PrjSecondApplication\bin\Debug\netcoreapp3.1\PrjSecondApplication.runtimeconfig.dev.json
+G:\LTI Training\PrjSecondApplication\PrjSecondApplication\bin\Debug\netcoreapp3.1\PrjSecondApplication.dll
+G:\LTI Training\PrjSecondApplication\PrjSecondApplication\bin\Debug\netcoreapp3.1\PrjSecondApplication.pdb
+G:\LTI Training\PrjSecondApplication\PrjSecondApplication\obj\Debug\netcoreapp3.1\PrjSecondApplication.csproj.AssemblyReference.cache
+G:\LTI Training\PrjSecondApplication\PrjSecondApplication\obj\Debug\netcoreapp3.1\PrjSecondApplication.AssemblyInfoInputs.cache
+G:\LTI Training\PrjSecondApplication\PrjSecondApplication\obj\Debug\netcoreapp3.1\PrjSecondApplication.AssemblyInfo.cs
+G:\LTI Training\PrjSecondApplication\PrjSecondApplication\obj\Debug\netcoreapp3.1\PrjSecondApplication.csproj.CoreCompileInputs.cache
+G:\LTI Training\PrjSecondApplication\PrjSecondApplication\obj\Debug\netcoreapp3.1\PrjSecondApplication.dll
+G:\LTI Training\PrjSecondApplication\PrjSecondApplication\obj\Debug\netcoreapp3.1\PrjSecondApplication.pdb
+G:\LTI Training\PrjSecondApplication\PrjSecondApplication\obj\Debug\netcoreapp3.1\PrjSecondApplication.genruntimeconfig.cache

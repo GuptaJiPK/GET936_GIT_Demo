@@ -1,0 +1,4 @@
+G:\LTI Training\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.AssemblyReference.cache
+G:\LTI Training\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+G:\LTI Training\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+G:\LTI Training\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CoreCompileInputs.cache
